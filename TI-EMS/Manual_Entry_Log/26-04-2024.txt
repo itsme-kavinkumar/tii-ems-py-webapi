@@ -1,0 +1,2 @@
+26/04/2024 15:51:58 data_correction..insert into data_correction(mill_date,mill_shift,plant_id,is_manual_call,is_ckwh_correction)
+              values('2024-04-26 00:00:00','1','2','yes','no')

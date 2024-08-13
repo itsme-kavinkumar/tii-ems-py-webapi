@@ -1,0 +1,48 @@
+07/08/2024 09:26:19 Issue in returning data
+07/08/2024 09:26:28 Issue in returning data
+07/08/2024 09:29:54 Query executed successfully for login
+07/08/2024 09:29:55 Query executed successfully for shift list
+07/08/2024 09:30:10 Query executed successfully for plant meter_campus list
+07/08/2024 09:30:37 Issue in returning data
+07/08/2024 09:30:51 Issue in returning data
+07/08/2024 09:31:57 Query executed successfully for plant meter_source list
+07/08/2024 09:32:26 Query executed successfully for plant meter_source list
+07/08/2024 09:32:37 Query executed successfully for plant meter_source list
+07/08/2024 09:59:29 Query executed successfully for plant meter_campus list
+07/08/2024 10:09:38 Query executed successfully for login
+07/08/2024 10:09:39 Query executed successfully for shift list
+07/08/2024 10:09:40 Query executed successfully for shift list
+07/08/2024 10:09:49 Query executed successfully for plant meter_campus list
+07/08/2024 10:09:49 Query executed successfully for plant energycalculation list
+07/08/2024 10:10:15 Issue in returning data
+07/08/2024 10:10:47 Issue in returning data
+07/08/2024 10:21:03 Issue in returning data
+07/08/2024 10:21:16 Query executed successfully for shift list
+07/08/2024 10:21:25 Query executed successfully for plant meter_campus list
+07/08/2024 10:21:32 Query executed successfully for plant meter_source list
+07/08/2024 10:22:03 Issue in returning data AttributeError occurred in file master_source_entry_model.py, line 212: 'coroutine' object has no attribute 'mappings'
+07/08/2024 10:22:18 Issue in returning data
+07/08/2024 10:32:08 Issue in returning data
+07/08/2024 10:32:25 Issue in returning data TypeError occurred in file master_source_entry_model.py, line 216: int() argument must be a string, a bytes-like object or a number, not 'dict'
+07/08/2024 10:33:21 Issue in returning data TypeError occurred in file master_source_entry_model.py, line 216: int() argument must be a string, a bytes-like object or a number, not 'dict'
+07/08/2024 10:33:41 Issue in returning data
+07/08/2024 10:44:42 Issue in returning data
+07/08/2024 10:44:49 Issue in returning data
+07/08/2024 10:49:01 Issue in returning data TypeError occurred in file master_source_entry_model.py, line 219: list indices must be integers or slices, not str
+07/08/2024 10:49:53 Issue in returning data
+07/08/2024 10:50:28 Issue in returning data TypeError occurred in file master_source_entry_model.py, line 219: list indices must be integers or slices, not str
+07/08/2024 10:52:54 Issue in returning data
+07/08/2024 10:53:32 Issue in returning data TypeError occurred in file master_source_entry_model.py, line 217: list indices must be integers or slices, not str
+07/08/2024 10:53:44 Issue in returning data
+07/08/2024 10:53:57 Issue in returning data TypeError occurred in file master_source_entry_model.py, line 217: list indices must be integers or slices, not str
+07/08/2024 10:54:37 Issue in returning data TypeError occurred in file master_source_entry_model.py, line 217: list indices must be integers or slices, not str
+07/08/2024 10:55:19 Issue in returning data
+07/08/2024 10:55:31 Issue in returning data NoSuchColumnError occurred in file master_source_entry_model.py, line 217: Could not locate column in row for column 'consumption'
+07/08/2024 10:57:04 Issue in returning data
+07/08/2024 10:57:34 Query executed successfully for shift list
+07/08/2024 10:57:35 Query executed successfully for plant meter_campus list
+07/08/2024 11:05:07 Issue in returning data
+07/08/2024 11:05:32 Query executed successfully for plant meter_source list
+07/08/2024 11:05:57 Query executed successfully for plant meter_campus list
+07/08/2024 11:10:02 Issue in returning data
+07/08/2024 11:10:39 Issue in returning data

@@ -1,0 +1,83 @@
+06/08/2024 14:49:06 Issue in returning data
+06/08/2024 14:49:13 Issue in returning data
+06/08/2024 14:52:26 Query executed successfully for login
+06/08/2024 14:52:28 Query executed successfully for shift list
+06/08/2024 14:52:45 Query executed successfully for shift list
+06/08/2024 14:54:02 Query executed successfully for plant meter_campus list
+06/08/2024 14:54:10 Query executed successfully for plant meter_source list
+06/08/2024 14:54:25 sql-select msed.*, mse.id
+                            from master_source_entry_date msed
+                            inner join master_source_entry mse on mse.id = msed.energy_source_id where msed.mill_date = '2024-08-01'
+                             and mse.period_type = 'date' 
+06/08/2024 14:54:25 sql-select msed.*, mse.id
+                            from master_source_entry_date msed
+                            inner join master_source_entry mse on mse.id = msed.energy_source_id where msed.mill_date = '2024-08-02'
+                             and mse.period_type = 'date' 
+06/08/2024 14:54:25 sql-select msed.*, mse.id
+                            from master_source_entry_date msed
+                            inner join master_source_entry mse on mse.id = msed.energy_source_id where msed.mill_date = '2024-08-03'
+                             and mse.period_type = 'date' 
+06/08/2024 14:54:25 sql-select msed.*, mse.id
+                            from master_source_entry_date msed
+                            inner join master_source_entry mse on mse.id = msed.energy_source_id where msed.mill_date = '2024-08-04'
+                             and mse.period_type = 'date' 
+06/08/2024 14:54:25 sql-select msed.*, mse.id
+                            from master_source_entry_date msed
+                            inner join master_source_entry mse on mse.id = msed.energy_source_id where msed.mill_date = '2024-08-05'
+                             and mse.period_type = 'date' 
+06/08/2024 14:54:25 Query executed successfully for plant meter_source list
+06/08/2024 14:54:29 sql-select msed.*, mse.id
+                            from master_source_entry_date msed
+                            inner join master_source_entry mse on mse.id = msed.energy_source_id where msed.mill_date = '2024-08-01'
+                             and mse.period_type = 'date' 
+06/08/2024 14:54:29 sql-select msed.*, mse.id
+                            from master_source_entry_date msed
+                            inner join master_source_entry mse on mse.id = msed.energy_source_id where msed.mill_date = '2024-08-02'
+                             and mse.period_type = 'date' 
+06/08/2024 14:54:29 sql-select msed.*, mse.id
+                            from master_source_entry_date msed
+                            inner join master_source_entry mse on mse.id = msed.energy_source_id where msed.mill_date = '2024-08-03'
+                             and mse.period_type = 'date' 
+06/08/2024 14:54:29 sql-select msed.*, mse.id
+                            from master_source_entry_date msed
+                            inner join master_source_entry mse on mse.id = msed.energy_source_id where msed.mill_date = '2024-08-04'
+                             and mse.period_type = 'date' 
+06/08/2024 14:54:29 sql-select msed.*, mse.id
+                            from master_source_entry_date msed
+                            inner join master_source_entry mse on mse.id = msed.energy_source_id where msed.mill_date = '2024-08-05'
+                             and mse.period_type = 'date' 
+06/08/2024 14:54:29 Query executed successfully for plant meter_source list
+06/08/2024 14:54:32 sql-select msed.*, mse.id
+                            from master_source_entry_date msed
+                            inner join master_source_entry mse on mse.id = msed.energy_source_id where msed.mill_date = '2024-08-01'
+                             and mse.period_type = 'date' 
+06/08/2024 14:54:32 sql-select msed.*, mse.id
+                            from master_source_entry_date msed
+                            inner join master_source_entry mse on mse.id = msed.energy_source_id where msed.mill_date = '2024-08-02'
+                             and mse.period_type = 'date' 
+06/08/2024 14:54:32 sql-select msed.*, mse.id
+                            from master_source_entry_date msed
+                            inner join master_source_entry mse on mse.id = msed.energy_source_id where msed.mill_date = '2024-08-03'
+                             and mse.period_type = 'date' 
+06/08/2024 14:54:32 sql-select msed.*, mse.id
+                            from master_source_entry_date msed
+                            inner join master_source_entry mse on mse.id = msed.energy_source_id where msed.mill_date = '2024-08-04'
+                             and mse.period_type = 'date' 
+06/08/2024 14:54:32 sql-select msed.*, mse.id
+                            from master_source_entry_date msed
+                            inner join master_source_entry mse on mse.id = msed.energy_source_id where msed.mill_date = '2024-08-05'
+                             and mse.period_type = 'date' 
+06/08/2024 14:54:32 Query executed successfully for plant meter_source list
+06/08/2024 14:54:47 sql-select msed.*, mse.id
+                            from master_source_entry_date msed
+                            inner join master_source_entry mse on mse.id = msed.energy_source_id where msed.mill_date = '2024-05-01'
+                             and mse.period_type = 'date' 
+06/08/2024 14:54:47 Query executed successfully for plant meter_source list
+06/08/2024 14:55:03 sql-select msed.*, mse.id
+                            from master_source_entry_date msed
+                            inner join master_source_entry mse on mse.id = msed.energy_source_id where msed.mill_date = '2024-05-01'
+                             and msed.campus_id = 1 and mse.period_type = 'date' 
+06/08/2024 14:55:03 Query executed successfully for plant meter_source list
+06/08/2024 14:55:18 Query executed successfully for plant meter_source list
+06/08/2024 14:55:24 Query executed successfully for plant meter_campus list
+06/08/2024 15:08:58 Query executed successfully for plant meter_source list

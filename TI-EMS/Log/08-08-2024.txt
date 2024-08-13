@@ -1,0 +1,20 @@
+08/08/2024 10:13:07 Issue in returning data
+08/08/2024 10:13:12 Issue in returning data
+08/08/2024 10:15:03 Issue in returning data
+08/08/2024 10:15:30 Query executed successfully for login
+08/08/2024 10:15:31 Query executed successfully for shift list
+08/08/2024 10:15:31 Query executed successfully for shift list
+08/08/2024 10:15:58 Query executed successfully for plant meter_campus list
+08/08/2024 10:16:01 query:
+08/08/2024 10:16:01 Query executed successfully for  company list
+08/08/2024 10:16:02 Query executed successfully ......
+08/08/2024 10:16:02 Query executed successfully for bu list
+08/08/2024 10:16:03 Query executed successfully for get plant 
+08/08/2024 10:16:11 query:
+08/08/2024 10:16:11 Query executed successfully ......
+08/08/2024 10:16:57 query:
+08/08/2024 10:16:57 Query executed successfully for get plant department name
+08/08/2024 10:16:57 Query executed successfully ......
+08/08/2024 10:19:17 Issue in returning data NoSuchColumnError occurred in file report_model.py, line 2712: Could not locate column in row for column 'plant_department_id'
+08/08/2024 10:32:53 Issue in returning data
+08/08/2024 10:33:05 Issue in returning data

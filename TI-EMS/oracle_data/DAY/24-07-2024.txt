@@ -1,0 +1,18 @@
+24/07/2024 16:44:28 Day API call
+24/07/2024 16:44:28 Process completed --> Duration: 0.004761457443237305 Seconds
+24/07/2024 16:45:08 Day API call
+24/07/2024 16:45:08 Process completed --> Duration: 0.028580904006958008 Seconds
+24/07/2024 16:46:44 Day API call
+24/07/2024 16:46:55 if Condition Executed
+24/07/2024 16:47:17 Process completed --> Duration: 33.136714220047 Seconds
+24/07/2024 16:48:20 Day API call
+24/07/2024 16:48:22 if Condition Executed
+24/07/2024 16:48:32 Process completed --> Duration: 13.927814483642578 Seconds
+24/07/2024 16:49:30 Day API call
+24/07/2024 16:49:32 if Condition Executed
+24/07/2024 16:49:37 Function Call P_TYPE DAY
+24/07/2024 16:50:08 executed query to get max last update date
+24/07/2024 16:50:13 process_data: DPI-1047: Cannot locate a 64-bit Oracle Client library: "The specified module could not be found". See https://cx-oracle.readthedocs.io/en/latest/user_guide/installation.html for help
+24/07/2024 16:50:15 Process completed --> Duration: 45.80642032623291 Seconds
+24/07/2024 16:51:23 Day API call
+24/07/2024 16:51:24 if Condition Executed

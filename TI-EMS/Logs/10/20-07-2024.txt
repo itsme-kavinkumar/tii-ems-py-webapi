@@ -1,0 +1,313 @@
+20/07/2024 14:49:28 Shift Check
+20/07/2024 14:49:28 if 1 != 1 or 2024-07-19 00:00:00 != 2024-07-20 00:00:00
+20/07/2024 14:49:28 Shift end flag = 1 || active_date = 2024-07-20 , active_shift = 1
+20/07/2024 14:49:28 Shift Changed -->> Date :2024-07-20 , shift : 1 .
+20/07/2024 14:49:28 Shift End Called 08:00;00!
+20/07/2024 14:49:28 Fetched Records From masterShifts 
+20/07/2024 14:49:28 Created power_072024 table 
+20/07/2024 14:49:28 Created power_analysis_072024 table
+20/07/2024 14:49:28 Created alarm_072024 table 
+20/07/2024 14:49:28 Created polling_data_072024 table 
+20/07/2024 14:49:28 Error In While Loop -->> Error: (1054, "Unknown column 'diff_kwh' in 'field list'") , Error_type: <class 'pymysql.err.OperationalError'> , File_name: shift_check.py , Error_line: 541 .
+20/07/2024 14:49:39 Shift Check
+20/07/2024 14:49:39 if 1 != 1 or 2024-07-19 00:00:00 != 2024-07-20 00:00:00
+20/07/2024 14:49:39 Shift end flag = 1 || active_date = 2024-07-20 , active_shift = 1
+20/07/2024 14:49:39 Shift Changed -->> Date :2024-07-20 , shift : 1 .
+20/07/2024 14:49:39 Shift End Called 08:00;00!
+20/07/2024 14:49:39 Fetched Records From masterShifts 
+20/07/2024 14:49:39 Created power_072024 table 
+20/07/2024 14:49:39 Created power_analysis_072024 table
+20/07/2024 14:49:39 Created alarm_072024 table 
+20/07/2024 14:49:39 Created polling_data_072024 table 
+20/07/2024 14:49:39 Error In While Loop -->> Error: (1054, "Unknown column 'diff_kwh' in 'field list'") , Error_type: <class 'pymysql.err.OperationalError'> , File_name: shift_check.py , Error_line: 541 .
+20/07/2024 14:49:50 Shift Check
+20/07/2024 14:49:50 if 1 != 1 or 2024-07-19 00:00:00 != 2024-07-20 00:00:00
+20/07/2024 14:49:50 Shift end flag = 1 || active_date = 2024-07-20 , active_shift = 1
+20/07/2024 14:49:50 Shift Changed -->> Date :2024-07-20 , shift : 1 .
+20/07/2024 14:49:50 Shift End Called 08:00;00!
+20/07/2024 14:49:50 Fetched Records From masterShifts 
+20/07/2024 14:49:50 Created power_072024 table 
+20/07/2024 14:49:50 Created power_analysis_072024 table
+20/07/2024 14:49:50 Created alarm_072024 table 
+20/07/2024 14:49:50 Created polling_data_072024 table 
+20/07/2024 14:49:50 Error In While Loop -->> Error: (1054, "Unknown column 'diff_kwh' in 'field list'") , Error_type: <class 'pymysql.err.OperationalError'> , File_name: shift_check.py , Error_line: 541 .
+20/07/2024 14:50:02 Shift Check
+20/07/2024 14:50:02 if 1 != 1 or 2024-07-19 00:00:00 != 2024-07-20 00:00:00
+20/07/2024 14:50:02 Shift end flag = 1 || active_date = 2024-07-20 , active_shift = 1
+20/07/2024 14:50:02 Shift Changed -->> Date :2024-07-20 , shift : 1 .
+20/07/2024 14:50:02 Shift End Called 08:00;00!
+20/07/2024 14:50:02 Fetched Records From masterShifts 
+20/07/2024 14:50:02 Created power_072024 table 
+20/07/2024 14:50:02 Created power_analysis_072024 table
+20/07/2024 14:50:02 Created alarm_072024 table 
+20/07/2024 14:50:02 Created polling_data_072024 table 
+20/07/2024 14:50:02 Error In While Loop -->> Error: (1054, "Unknown column 'diff_kwh' in 'field list'") , Error_type: <class 'pymysql.err.OperationalError'> , File_name: shift_check.py , Error_line: 541 .
+20/07/2024 14:50:13 Shift Check
+20/07/2024 14:50:13 if 1 != 1 or 2024-07-19 00:00:00 != 2024-07-20 00:00:00
+20/07/2024 14:50:13 Shift end flag = 1 || active_date = 2024-07-20 , active_shift = 1
+20/07/2024 14:50:13 Shift Changed -->> Date :2024-07-20 , shift : 1 .
+20/07/2024 14:50:13 Shift End Called 08:00;00!
+20/07/2024 14:50:13 Fetched Records From masterShifts 
+20/07/2024 14:50:13 Created power_072024 table 
+20/07/2024 14:50:13 Created power_analysis_072024 table
+20/07/2024 14:50:13 Created alarm_072024 table 
+20/07/2024 14:50:13 Created polling_data_072024 table 
+20/07/2024 14:50:13 Error In While Loop -->> Error: (1054, "Unknown column 'diff_kwh' in 'field list'") , Error_type: <class 'pymysql.err.OperationalError'> , File_name: shift_check.py , Error_line: 541 .
+20/07/2024 14:50:24 Shift Check
+20/07/2024 14:50:24 if 1 != 1 or 2024-07-19 00:00:00 != 2024-07-20 00:00:00
+20/07/2024 14:50:24 Shift end flag = 1 || active_date = 2024-07-20 , active_shift = 1
+20/07/2024 14:50:24 Shift Changed -->> Date :2024-07-20 , shift : 1 .
+20/07/2024 14:50:24 Shift End Called 08:00;00!
+20/07/2024 14:50:25 Fetched Records From masterShifts 
+20/07/2024 14:50:25 Created power_072024 table 
+20/07/2024 14:50:25 Created power_analysis_072024 table
+20/07/2024 14:50:25 Created alarm_072024 table 
+20/07/2024 14:50:25 Created polling_data_072024 table 
+20/07/2024 14:50:25 Error In While Loop -->> Error: (1054, "Unknown column 'diff_kwh' in 'field list'") , Error_type: <class 'pymysql.err.OperationalError'> , File_name: shift_check.py , Error_line: 541 .
+20/07/2024 14:50:36 Shift Check
+20/07/2024 14:50:36 if 1 != 1 or 2024-07-19 00:00:00 != 2024-07-20 00:00:00
+20/07/2024 14:50:36 Shift end flag = 1 || active_date = 2024-07-20 , active_shift = 1
+20/07/2024 14:50:36 Shift Changed -->> Date :2024-07-20 , shift : 1 .
+20/07/2024 14:50:36 Shift End Called 08:00;00!
+20/07/2024 14:50:36 Fetched Records From masterShifts 
+20/07/2024 14:50:36 Created power_072024 table 
+20/07/2024 14:50:36 Created power_analysis_072024 table
+20/07/2024 14:50:36 Created alarm_072024 table 
+20/07/2024 14:50:36 Created polling_data_072024 table 
+20/07/2024 14:50:36 Error In While Loop -->> Error: (1054, "Unknown column 'diff_kwh' in 'field list'") , Error_type: <class 'pymysql.err.OperationalError'> , File_name: shift_check.py , Error_line: 541 .
+20/07/2024 14:50:47 Shift Check
+20/07/2024 14:50:47 if 1 != 1 or 2024-07-19 00:00:00 != 2024-07-20 00:00:00
+20/07/2024 14:50:47 Shift end flag = 1 || active_date = 2024-07-20 , active_shift = 1
+20/07/2024 14:50:47 Shift Changed -->> Date :2024-07-20 , shift : 1 .
+20/07/2024 14:50:47 Shift End Called 08:00;00!
+20/07/2024 14:50:47 Fetched Records From masterShifts 
+20/07/2024 14:50:47 Created power_072024 table 
+20/07/2024 14:50:47 Created power_analysis_072024 table
+20/07/2024 14:50:47 Created alarm_072024 table 
+20/07/2024 14:50:47 Created polling_data_072024 table 
+20/07/2024 14:50:47 Error In While Loop -->> Error: (1054, "Unknown column 'diff_kwh' in 'field list'") , Error_type: <class 'pymysql.err.OperationalError'> , File_name: shift_check.py , Error_line: 541 .
+20/07/2024 14:50:59 Shift Check
+20/07/2024 14:50:59 if 1 != 1 or 2024-07-19 00:00:00 != 2024-07-20 00:00:00
+20/07/2024 14:50:59 Shift end flag = 1 || active_date = 2024-07-20 , active_shift = 1
+20/07/2024 14:50:59 Shift Changed -->> Date :2024-07-20 , shift : 1 .
+20/07/2024 14:50:59 Shift End Called 08:00;00!
+20/07/2024 14:50:59 Fetched Records From masterShifts 
+20/07/2024 14:50:59 Created power_072024 table 
+20/07/2024 14:50:59 Created power_analysis_072024 table
+20/07/2024 14:50:59 Created alarm_072024 table 
+20/07/2024 14:50:59 Created polling_data_072024 table 
+20/07/2024 14:50:59 Error In While Loop -->> Error: (1054, "Unknown column 'diff_kwh' in 'field list'") , Error_type: <class 'pymysql.err.OperationalError'> , File_name: shift_check.py , Error_line: 541 .
+20/07/2024 22:10:00 Shift Check
+20/07/2024 22:10:00 if 1 != 2 or 2024-07-19 00:00:00 != 2024-07-20 00:00:00
+20/07/2024 22:10:00 Shift end flag = 1 || active_date = 2024-07-20 , active_shift = 2
+20/07/2024 22:10:00 Shift Changed -->> Date :2024-07-20 , shift : 2 .
+20/07/2024 22:10:00 Shift End Called 16:00:00!
+20/07/2024 22:10:00 Fetched Records From masterShifts 
+20/07/2024 22:10:00 Created power_072024 table 
+20/07/2024 22:10:00 Created power_analysis_072024 table
+20/07/2024 22:10:00 Created alarm_072024 table 
+20/07/2024 22:10:00 Created polling_data_072024 table 
+20/07/2024 22:10:00 Error In While Loop -->> Error: (1054, "Unknown column 'diff_kwh' in 'field list'") , Error_type: <class 'pymysql.err.OperationalError'> , File_name: shift_check.py , Error_line: 541 .
+20/07/2024 22:10:12 Shift Check
+20/07/2024 22:10:12 if 1 != 2 or 2024-07-19 00:00:00 != 2024-07-20 00:00:00
+20/07/2024 22:10:12 Shift end flag = 1 || active_date = 2024-07-20 , active_shift = 2
+20/07/2024 22:10:12 Shift Changed -->> Date :2024-07-20 , shift : 2 .
+20/07/2024 22:10:12 Shift End Called 16:00:00!
+20/07/2024 22:10:12 Fetched Records From masterShifts 
+20/07/2024 22:10:12 Created power_072024 table 
+20/07/2024 22:10:12 Created power_analysis_072024 table
+20/07/2024 22:10:12 Created alarm_072024 table 
+20/07/2024 22:10:12 Created polling_data_072024 table 
+20/07/2024 22:10:12 Error In While Loop -->> Error: (1054, "Unknown column 'diff_kwh' in 'field list'") , Error_type: <class 'pymysql.err.OperationalError'> , File_name: shift_check.py , Error_line: 541 .
+20/07/2024 22:10:23 Shift Check
+20/07/2024 22:10:23 if 1 != 2 or 2024-07-19 00:00:00 != 2024-07-20 00:00:00
+20/07/2024 22:10:23 Shift end flag = 1 || active_date = 2024-07-20 , active_shift = 2
+20/07/2024 22:10:23 Shift Changed -->> Date :2024-07-20 , shift : 2 .
+20/07/2024 22:10:23 Shift End Called 16:00:00!
+20/07/2024 22:10:23 Fetched Records From masterShifts 
+20/07/2024 22:10:23 Created power_072024 table 
+20/07/2024 22:10:23 Created power_analysis_072024 table
+20/07/2024 22:10:23 Created alarm_072024 table 
+20/07/2024 22:10:23 Created polling_data_072024 table 
+20/07/2024 22:10:23 Error In While Loop -->> Error: (1054, "Unknown column 'diff_kwh' in 'field list'") , Error_type: <class 'pymysql.err.OperationalError'> , File_name: shift_check.py , Error_line: 541 .
+20/07/2024 22:30:13 Shift Check
+20/07/2024 22:30:13 if 1 != 2 or 2024-07-19 00:00:00 != 2024-07-20 00:00:00
+20/07/2024 22:30:13 Shift end flag = 1 || active_date = 2024-07-20 , active_shift = 2
+20/07/2024 22:30:13 Shift Changed -->> Date :2024-07-20 , shift : 2 .
+20/07/2024 22:30:13 Shift End Called 16:00:00!
+20/07/2024 22:30:13 Fetched Records From masterShifts 
+20/07/2024 22:30:13 Created power_072024 table 
+20/07/2024 22:30:13 Created power_analysis_072024 table
+20/07/2024 22:30:13 Created alarm_072024 table 
+20/07/2024 22:30:13 Created polling_data_072024 table 
+20/07/2024 22:30:13 power analysis table insert Done !
+20/07/2024 22:30:13 power table insert Done !
+20/07/2024 22:30:13 TO take difference of the current polling data -->> UPDATE ems_v1.current_power cp
+                    INNER JOIN ems_v1.master_meter mm ON mm.meter_id = cp.meter_id
+                    SET
+                        cp.current_poll_consumption = cp.machine_kwh - cp.last_poll_consumption,
+                        cp.current_equipment_poll_consumption = cp.equipment_kwh - cp.last_poll_equipment_kwh,
+                        cp.current_poll_duration = IFNULL(TIMESTAMPDIFF(SECOND, cp.mc_state_changed_time, NOW()), 0)
+                    WHERE
+                        mm.is_poll_meter = 'yes' 
+20/07/2024 22:30:13 Inserting last polling data -->>  INSERT INTO current_polling_data (
+                        meter_id,
+                        mill_date,
+                        mill_shift,
+                        meter_status,
+                        mc_state_changed_time,
+                        poll_duration,
+                        poll_consumption,
+                        equipment_consumption
+                    )
+                    SELECT
+                        cp.meter_id,
+                        cp.mill_date,
+                        cp.mill_shift,
+                        cp.meter_status,
+                        cp.mc_state_changed_time,
+                        cp.current_poll_duration,
+                        cp.current_poll_consumption,
+                        cp.current_equipment_poll_consumption
+                    FROM
+                        current_power cp
+                    INNER JOIN
+                        ems_v1.master_meter mm ON mm.meter_id = cp.meter_id
+                    WHERE
+                        mm.is_poll_meter = 'yes' 
+20/07/2024 22:30:13 All live Parameters reset Query - 
+                    update ems_v1.current_power set current_equipment_poll_consumption = 0 , last_poll_equipment_kwh = 0 , equipment_off_kwh = 0 , equipment_idle_kwh = 0 , equipment_on_load_kwh = 0 , equipment_shift_off_kwh = 0 , equipment_shift_idle_kwh = 0 , equipment_shift_on_load_kwh = 0 , 
+                    equipment_kwh = 0 , total_kwh = 0 , off_kwh = 0 , idle_kwh = 0 , on_load_kwh = 0 , shift_off_kwh = 0 , shift_idle_kwh = 0 , shift_on_load_kwh = 0 , current_poll_consumption = 0 , off_time = 0 , shift_off_time = 0 , idle_time = 0 , shift_idle_time = 0 , on_load_time = 0 , shift_on_load_time = 0 , mc_state_changed_time = IFNULL(STR_TO_DATE(CONCAT(DATE('2024-07-20'), ' ', TIME('16:00:00')), '%Y-%m-%d %H:%i:%s'),0) , current_poll_duration = 0 , current_poll_consumption = 0 , vln_avg = 0 , r_volt = 0 , y_volt = 0 , b_volt = 0 , vll_avg = 0 , ry_volt = 0 , yb_volt = 0 , br_volt = 0 , t_current = 0 , 
+                    r_current = 0 , y_current = 0 , b_current = 0 , t_watts = 0 , r_watts = 0 , y_watts = 0 , b_watts = 0 , t_var = 0 , r_var = 0 , y_var = 0 , b_var = 0 , 
+                    t_voltampere = 0 , r_voltampere = 0 , y_voltampere = 0 , b_voltampere = 0 , avg_powerfactor = 0 , r_powerfactor = 0 , y_powerfactor = 0 , b_powerfactor = 0 , 
+                    powerfactor = 0 , kwh = 0 , kvah = 0 , kw = 0 , kvar = 0 , power_factor = 0 , kva = 0 , frequency = 0 ,r_volt_thd = 0,y_volt_thd = 0,b_volt_thd = 0,avg_volt_thd = 0,r_current_thd = 0,y_current_thd = 0,b_current_thd = 0,avg_current_thd = 0,ry_volt_thd = 0,yb_volt_thd = 0,br_volt_thd = 0,vll_avg_thd = 0,vln_avg_thd = 0
+                    where company_id = '1' and bu_id = '9' and plant_id = '10' 
+                    
+20/07/2024 22:30:13 All live Parameters reset Done !
+20/07/2024 22:30:13 Currrent Power kwh reset and master_kwh set Done !
+20/07/2024 22:30:13 polling data table insert Done !
+20/07/2024 22:30:13 Mill Date and Mill Shift Updated in Master Shifts Exe !
+20/07/2024 22:30:13 Mill Date and Mill Shift Updated in Master Shifts !
+20/07/2024 22:30:13 Mill Date and Mill Shift Updating in Current powerUPDATE ems_v1.current_power SET mill_date='2024-07-20',mill_shift=2 where company_id = '1' and bu_id = '9' and plant_id = '10'  !
+20/07/2024 22:30:13 Mill Date and Mill Shift Updated in Current powerUPDATE ems_v1.current_power SET mill_date='2024-07-20',mill_shift=2 where company_id = '1' and bu_id = '9' and plant_id = '10'  !
+20/07/2024 22:30:13 Deleted From Current  power analysis !
+20/07/2024 22:30:13 Deleted From current_polling_data !
+20/07/2024 22:30:13 Inserting Alarm to Completed !
+20/07/2024 22:30:13 Deleted from Alarm Table 
+20/07/2024 22:30:13 data correction insert query-insert into ems_v1.data_correction(mill_date,mill_shift,plant_id)
+                                    values ('2024-07-19 00:00:00','1','10')
+20/07/2024 22:30:13 Equipment wise production data insert query-insert into ems_v1.equipment_wise_production_data(equipment_id,meter_id,mill_date,mill_shift)
+                                            values ('159','360','2024-07-19 00:00:00','1')
+20/07/2024 22:30:13 Equipment wise production data insert query-insert into ems_v1.equipment_wise_production_data(equipment_id,meter_id,mill_date,mill_shift)
+                                            values ('160','357','2024-07-19 00:00:00','1')
+20/07/2024 22:30:13 Equipment wise production data insert query-insert into ems_v1.equipment_wise_production_data(equipment_id,meter_id,mill_date,mill_shift)
+                                            values ('180','366','2024-07-19 00:00:00','1')
+20/07/2024 22:30:13 Equipment wise production data insert query-insert into ems_v1.equipment_wise_production_data(equipment_id,meter_id,mill_date,mill_shift)
+                                            values ('181','386','2024-07-19 00:00:00','1')
+20/07/2024 22:30:13 Equipment wise production data insert query-insert into ems_v1.equipment_wise_production_data(equipment_id,meter_id,mill_date,mill_shift)
+                                            values ('182','388','2024-07-19 00:00:00','1')
+20/07/2024 22:30:13 Equipment wise production data insert query-insert into ems_v1.equipment_wise_production_data(equipment_id,meter_id,mill_date,mill_shift)
+                                            values ('183','398','2024-07-19 00:00:00','1')
+20/07/2024 22:30:14 Equipment wise production data insert query-insert into ems_v1.equipment_wise_production_data(equipment_id,meter_id,mill_date,mill_shift)
+                                            values ('184','395','2024-07-19 00:00:00','1')
+20/07/2024 22:30:14 Equipment wise production data insert query-insert into ems_v1.equipment_wise_production_data(equipment_id,meter_id,mill_date,mill_shift)
+                                            values ('185','399','2024-07-19 00:00:00','1')
+20/07/2024 22:30:14 Equipment wise production data insert query-insert into ems_v1.equipment_wise_production_data(equipment_id,meter_id,mill_date,mill_shift)
+                                            values ('186','396','2024-07-19 00:00:00','1')
+20/07/2024 22:30:14 Equipment wise production data insert query-insert into ems_v1.equipment_wise_production_data(equipment_id,meter_id,mill_date,mill_shift)
+                                            values ('187','390','2024-07-19 00:00:00','1')
+20/07/2024 22:30:14 Equipment wise production data insert query-insert into ems_v1.equipment_wise_production_data(equipment_id,meter_id,mill_date,mill_shift)
+                                            values ('188','404','2024-07-19 00:00:00','1')
+20/07/2024 22:30:14 Equipment wise production data insert query-insert into ems_v1.equipment_wise_production_data(equipment_id,meter_id,mill_date,mill_shift)
+                                            values ('170','400','2024-07-19 00:00:00','1')
+20/07/2024 22:30:14 Equipment wise production data insert query-insert into ems_v1.equipment_wise_production_data(equipment_id,meter_id,mill_date,mill_shift)
+                                            values ('171','18','2024-07-19 00:00:00','1')
+20/07/2024 22:30:14 Equipment wise production data insert query-insert into ems_v1.equipment_wise_production_data(equipment_id,meter_id,mill_date,mill_shift)
+                                            values ('172','369','2024-07-19 00:00:00','1')
+20/07/2024 22:30:14 Equipment wise production data insert Done !!
+20/07/2024 22:30:14 Creating database if not exists gateway_completed
+20/07/2024 22:30:14 Creating table if not exists : 
+                    CREATE TABLE IF NOT EXISTS gateway_completed.log_072024 (
+                    `id` BIGINT(11) NOT NULL AUTO_INCREMENT,
+                    `imei_no` VARCHAR(50) NOT NULL DEFAULT '',
+                    `mac` VARCHAR(50) NOT NULL DEFAULT '',
+                    `signal_strength` INT(5) NOT NULL DEFAULT 0,
+                    `received_packet` TEXT NOT NULL,
+                    `date_time` DATETIME NOT NULL DEFAULT '0000-00-00 00:00:00',
+                    `msg_type` VARCHAR(20) NOT NULL DEFAULT '',
+                    `production_quantity` INT(11) NOT NULL,
+                    `created_on` TIMESTAMP NOT NULL DEFAULT CURRENT_TIMESTAMP(),
+                    `status` VARCHAR(11) NOT NULL DEFAULT 'no',
+                    PRIMARY KEY (`id`),
+                    KEY `date_time_only` (`mac`,`created_on`,`status`),
+                    KEY `mac` (`mac`,`created_on`)
+                    ) ENGINE=INNODB DEFAULT CHARSET=latin1
+                    
+20/07/2024 22:30:14 Completed Moving all data from current data !
+20/07/2024 22:30:14  Shift ended and exiting
+20/07/2024 22:30:27 Shift Check
+20/07/2024 22:30:27 if 2 != 2 or 2024-07-20 00:00:00 != 2024-07-20 00:00:00
+20/07/2024 22:30:27 Shift end Flag not raised !
+20/07/2024 22:30:38 Shift Check
+20/07/2024 22:30:38 if 2 != 2 or 2024-07-20 00:00:00 != 2024-07-20 00:00:00
+20/07/2024 22:30:38 Shift end Flag not raised !
+20/07/2024 22:30:48 Shift Check
+20/07/2024 22:30:48 if 2 != 2 or 2024-07-20 00:00:00 != 2024-07-20 00:00:00
+20/07/2024 22:30:48 Shift end Flag not raised !
+20/07/2024 22:30:58 Shift Check
+20/07/2024 22:30:59 if 2 != 2 or 2024-07-20 00:00:00 != 2024-07-20 00:00:00
+20/07/2024 22:30:59 Shift end Flag not raised !
+20/07/2024 22:31:09 Shift Check
+20/07/2024 22:31:09 if 2 != 2 or 2024-07-20 00:00:00 != 2024-07-20 00:00:00
+20/07/2024 22:31:09 Shift end Flag not raised !
+20/07/2024 22:31:20 Shift Check
+20/07/2024 22:31:20 if 2 != 2 or 2024-07-20 00:00:00 != 2024-07-20 00:00:00
+20/07/2024 22:31:20 Shift end Flag not raised !
+20/07/2024 22:31:30 Shift Check
+20/07/2024 22:31:30 if 2 != 2 or 2024-07-20 00:00:00 != 2024-07-20 00:00:00
+20/07/2024 22:31:30 Shift end Flag not raised !
+20/07/2024 22:31:40 Shift Check
+20/07/2024 22:31:40 if 2 != 2 or 2024-07-20 00:00:00 != 2024-07-20 00:00:00
+20/07/2024 22:31:40 Shift end Flag not raised !
+20/07/2024 22:31:51 Shift Check
+20/07/2024 22:31:51 if 2 != 2 or 2024-07-20 00:00:00 != 2024-07-20 00:00:00
+20/07/2024 22:31:51 Shift end Flag not raised !
+20/07/2024 22:32:01 Shift Check
+20/07/2024 22:32:01 if 2 != 2 or 2024-07-20 00:00:00 != 2024-07-20 00:00:00
+20/07/2024 22:32:01 Shift end Flag not raised !
+20/07/2024 22:32:12 Shift Check
+20/07/2024 22:32:12 if 2 != 2 or 2024-07-20 00:00:00 != 2024-07-20 00:00:00
+20/07/2024 22:32:12 Shift end Flag not raised !
+20/07/2024 22:32:22 Shift Check
+20/07/2024 22:32:22 if 2 != 2 or 2024-07-20 00:00:00 != 2024-07-20 00:00:00
+20/07/2024 22:32:22 Shift end Flag not raised !
+20/07/2024 22:32:33 Shift Check
+20/07/2024 22:32:33 if 2 != 2 or 2024-07-20 00:00:00 != 2024-07-20 00:00:00
+20/07/2024 22:32:33 Shift end Flag not raised !
+20/07/2024 22:32:43 Shift Check
+20/07/2024 22:32:43 if 2 != 2 or 2024-07-20 00:00:00 != 2024-07-20 00:00:00
+20/07/2024 22:32:43 Shift end Flag not raised !
+20/07/2024 22:32:54 Shift Check
+20/07/2024 22:32:54 if 2 != 2 or 2024-07-20 00:00:00 != 2024-07-20 00:00:00
+20/07/2024 22:32:54 Shift end Flag not raised !
+20/07/2024 22:33:04 Shift Check
+20/07/2024 22:33:04 if 2 != 2 or 2024-07-20 00:00:00 != 2024-07-20 00:00:00
+20/07/2024 22:33:04 Shift end Flag not raised !
+20/07/2024 22:33:15 Shift Check
+20/07/2024 22:33:15 if 2 != 2 or 2024-07-20 00:00:00 != 2024-07-20 00:00:00
+20/07/2024 22:33:15 Shift end Flag not raised !
+20/07/2024 22:33:25 Shift Check
+20/07/2024 22:33:25 if 2 != 2 or 2024-07-20 00:00:00 != 2024-07-20 00:00:00
+20/07/2024 22:33:25 Shift end Flag not raised !
+20/07/2024 22:33:35 Shift Check
+20/07/2024 22:33:35 if 2 != 2 or 2024-07-20 00:00:00 != 2024-07-20 00:00:00
+20/07/2024 22:33:35 Shift end Flag not raised !
+20/07/2024 22:33:46 Shift Check
+20/07/2024 22:33:46 if 2 != 2 or 2024-07-20 00:00:00 != 2024-07-20 00:00:00
+20/07/2024 22:33:46 Shift end Flag not raised !
+20/07/2024 22:33:56 Shift Check
+20/07/2024 22:33:56 if 2 != 2 or 2024-07-20 00:00:00 != 2024-07-20 00:00:00
+20/07/2024 22:33:56 Shift end Flag not raised !
+20/07/2024 22:34:07 Shift Check
+20/07/2024 22:34:07 if 2 != 2 or 2024-07-20 00:00:00 != 2024-07-20 00:00:00
+20/07/2024 22:34:07 Shift end Flag not raised !

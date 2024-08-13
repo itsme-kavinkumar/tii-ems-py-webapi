@@ -1,0 +1,125 @@
+aiomysql==0.2.0
+altgraph @ file:///home/conda/feedstock_root/build_artifacts/altgraph_1695642967802/work
+anyio @ file:///C:/b/abs_847uobe7ea/croot/anyio_1706220224037/work  
+asgiref==3.8.1
+beautifulsoup4==4.12.3
+blinker==1.8.2
+Brotli @ file:///D:/bld/brotli-split_1695989908365/work
+calendra==7.6.1
+certifi @ file:///C:/b/abs_55jxithrm3/croot/certifi_1717618077850/work/certifi
+cffi @ file:///C:/b/abs_78eb1_vq6z/croot/cffi_1714483206096/work    
+channels==4.0.0
+chardet==5.2.0
+charset-normalizer @ file:///home/conda/feedstock_root/build_artifacts/charset-normalizer_1661170624537/work
+click==8.1.3
+colorama==0.4.5
+contourpy==1.2.1
+convertdate==2.4.0
+cryptography @ file:///C:/b/abs_97lgskwerx/croot/cryptography_1714664736250/work
+cx-Oracle==8.3.0
+cycler==0.12.1
+dash==2.17.0
+dash-bootstrap-components==1.6.0
+dash-core-components==2.0.0
+dash-html-components==2.0.0
+dash-table==5.0.0
+dash_renderer==1.9.1
+Django==3.2.25
+django-background-tasks==1.2.5
+django-bootstrap4==24.1
+django-compat==1.0.15
+django-crispy-forms==1.14.0
+django-inline-svg==0.1.1
+django-plotly-dash==2.1.3
+django-polymorphic==3.1.0
+django-unixtimestampfield==0.5.0
+dnspython==2.2.1
+dpd-static-support==0.0.5
+dpd_components==0.1.0
+email-validator==1.2.1
+et-xmlfile==1.1.0
+exceptiongroup @ file:///home/conda/feedstock_root/build_artifacts/exceptiongroup_1704921103267/work
+fastapi @ file:///home/conda/feedstock_root/build_artifacts/fastapi_1663210234852/work
+Flask==3.0.3
+fonttools==4.51.0
+future @ file:///home/conda/feedstock_root/build_artifacts/future_1708610096684/work
+greenlet==1.1.3
+h11==0.13.0
+httpcore==1.0.4
+httptools==0.5.0
+httpx==0.27.0
+idna @ file:///C:/b/abs_aad84bnnw5/croot/idna_1714398896795/work    
+importlib-metadata @ file:///home/conda/feedstock_root/build_artifacts/importlib-metadata_1703269254275/work
+importlib_resources==6.4.0
+itsdangerous==2.1.2
+Jinja2==3.1.2
+kiwisolver==1.4.5
+lunardate==0.2.2
+macholib @ file:///home/conda/feedstock_root/build_artifacts/macholib_1695643090386/work
+MarkupSafe==2.1.1
+matplotlib==3.8.4
+more-itertools==10.2.0
+MouseInfo==0.1.3
+nest-asyncio==1.6.0
+numpy==1.24.3
+opencv-python-headless==4.9.0.80
+openpyxl==3.1.2
+orjson==3.8.0
+packaging @ file:///home/conda/feedstock_root/build_artifacts/packaging_1696202382185/work
+paho-mqtt==1.6.1
+pandas==2.0.1
+pefile @ file:///home/conda/feedstock_root/build_artifacts/pefile_1675867622763/work
+pillow==10.2.0
+plotly==5.22.0
+psutil @ file:///D:/bld/psutil_1648873144419/work
+psycopg2==2.9.9
+PyAutoGUI==0.9.54
+pycparser @ file:///tmp/build/80754af9/pycparser_1636541352034/work 
+pydantic @ file:///C:/b/abs_9byjrk31gl/croot/pydantic_1695798904828/work
+PyGetWindow==0.0.9
+pyinstaller @ file:///D:/bld/pyinstaller_1645116606270/work
+pyinstaller-hooks-contrib @ file:///home/conda/feedstock_root/build_artifacts/pyinstaller-hooks-contrib_1707591271510/work
+pyluach==2.2.0
+PyMeeus==0.5.12
+PyMsgBox==1.0.9
+PyMySQL==1.0.2
+pyodbc==5.1.0
+pyOpenSSL @ file:///C:/b/abs_baj0aupznq/croot/pyopenssl_1708380486701/work
+pyparsing==3.1.2
+pyperclip==1.8.2
+PyRect==0.2.0
+PyScreeze==0.1.30
+PySocks @ file:///D:/bld/pysocks_1661604991356/work
+python-dateutil==2.8.2
+python-dotenv==0.21.0
+python-multipart==0.0.5
+pytweening==1.2.0
+pytz==2024.1
+pywin32==306
+pywin32-ctypes @ file:///D:/bld/pywin32-ctypes_1695395076921/work   
+PyYAML==6.0
+reportlab==4.1.0
+requests @ file:///home/conda/feedstock_root/build_artifacts/requests_1661872987712/work
+retrying==1.3.4
+rstr==3.2.2
+shape==0.1.1
+six==1.16.0
+sniffio @ file:///home/conda/feedstock_root/build_artifacts/sniffio_1662051266223/work
+soupsieve==2.5
+SQLAlchemy==1.4.41
+sqlparse==0.5.0
+starlette @ file:///home/conda/feedstock_root/build_artifacts/starlette-recipe_1650649298613/work
+tenacity==8.3.0
+timedelta==2020.12.3
+typing_extensions @ file:///C:/b/abs_0as9mdbkfl/croot/typing_extensions_1715268906610/work
+tzdata==2024.1
+ujson==5.4.0
+urllib3 @ file:///C:/b/abs_9cmlsrm3ys/croot/urllib3_1698257595508/work
+uvicorn==0.17.6
+watchgod==0.8.2
+webencodings @ file:///home/conda/feedstock_root/build_artifacts/webencodings_1694681268211/work
+websockets==10.3
+Werkzeug==3.0.3
+win-inet-pton @ file:///D:/bld/win_inet_pton_1667051142467/work     
+WMI==1.5.1
+xlwings==0.31.4

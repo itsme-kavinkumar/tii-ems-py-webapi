@@ -1,0 +1,210 @@
+14/06/2024 18:27:18 current_power api query  
+            SELECT 
+            	mcd.*,
+                mc.company_name,
+                mc.company_code,
+                c.campus_name,
+                c.campus_code,
+                mcm.converter_model_name,
+                mcm.converter_make_id,
+                mme.converter_make_name,
+                mb.bu_code,
+                mb.bu_name,
+                mp.plant_code,
+                mp.plant_name,
+            	IFNULL(concat(cu.employee_code,'-',cu.employee_name),'') as created_user,
+            	IFNULL(concat(mu.employee_code,'-',mu.employee_name),'') as modified_use
+            FROM  
+            	ems_v1.master_converter_detail mcd
+                inner join master_campus c on c.campus_id = mcd.campus_id
+                inner join master_company mc on mc.company_id = mcd.company_id
+                inner join master_business_unit mb on mb.bu_id = mcd.bu_id
+                inner join master_plant mp on mp.plant_id = mcd.plant_id
+                inner join master_converter_model mcm on mcm.converter_model_id = mcd.converter_model_id
+                inner join master_converter_make mme on mme.converter_make_id = mcm.converter_make_id
+            	left join ems_v1.master_employee cu on cu.employee_id=mcd.created_by
+            	left join ems_v1.master_employee mu on mu.employee_id=mcd.modified_by
+            WHERE 
+            	mcd.status !='delete' and  mcm.status != 'delete'
+            	and c.campus_id = '3'  
+            
+14/06/2024 18:34:49 current_power api query  
+            SELECT 
+            	mcd.*,
+                mc.company_name,
+                mc.company_code,
+                c.campus_name,
+                c.campus_code,
+                mcm.converter_model_name,
+                mcm.converter_make_id,
+                mme.converter_make_name,
+                mb.bu_code,
+                mb.bu_name,
+                mp.plant_code,
+                mp.plant_name,
+            	IFNULL(concat(cu.employee_code,'-',cu.employee_name),'') as created_user,
+            	IFNULL(concat(mu.employee_code,'-',mu.employee_name),'') as modified_use
+            FROM  
+            	ems_v1.master_converter_detail mcd
+                inner join master_campus c on c.campus_id = mcd.campus_id
+                inner join master_company mc on mc.company_id = mcd.company_id
+                inner join master_business_unit mb on mb.bu_id = mcd.bu_id
+                inner join master_plant mp on mp.plant_id = mcd.plant_id
+                inner join master_converter_model mcm on mcm.converter_model_id = mcd.converter_model_id
+                inner join master_converter_make mme on mme.converter_make_id = mcm.converter_make_id
+            	left join ems_v1.master_employee cu on cu.employee_id=mcd.created_by
+            	left join ems_v1.master_employee mu on mu.employee_id=mcd.modified_by
+            WHERE 
+            	mcd.status !='delete' and  mcm.status != 'delete'
+            	and c.campus_id = '3'  
+            
+14/06/2024 18:35:36 current_power api query  
+            SELECT 
+            	mcd.*,
+                mc.company_name,
+                mc.company_code,
+                c.campus_name,
+                c.campus_code,
+                mcm.converter_model_name,
+                mcm.converter_make_id,
+                mme.converter_make_name,
+                mb.bu_code,
+                mb.bu_name,
+                mp.plant_code,
+                mp.plant_name,
+            	IFNULL(concat(cu.employee_code,'-',cu.employee_name),'') as created_user,
+            	IFNULL(concat(mu.employee_code,'-',mu.employee_name),'') as modified_use
+            FROM  
+            	ems_v1.master_converter_detail mcd
+                inner join master_campus c on c.campus_id = mcd.campus_id
+                inner join master_company mc on mc.company_id = mcd.company_id
+                inner join master_business_unit mb on mb.bu_id = mcd.bu_id
+                inner join master_plant mp on mp.plant_id = mcd.plant_id
+                inner join master_converter_model mcm on mcm.converter_model_id = mcd.converter_model_id
+                inner join master_converter_make mme on mme.converter_make_id = mcm.converter_make_id
+            	left join ems_v1.master_employee cu on cu.employee_id=mcd.created_by
+            	left join ems_v1.master_employee mu on mu.employee_id=mcd.modified_by
+            WHERE 
+            	mcd.status !='delete' and  mcm.status != 'delete'
+            	and c.campus_id = '3'  
+            
+14/06/2024 18:36:26 current_power api query  
+            SELECT 
+            	mcd.*,
+                mc.company_name,
+                mc.company_code,
+                c.campus_name,
+                c.campus_code,
+                mcm.converter_model_name,
+                mcm.converter_make_id,
+                mme.converter_make_name,
+                mb.bu_code,
+                mb.bu_name,
+                mp.plant_code,
+                mp.plant_name,
+            	IFNULL(concat(cu.employee_code,'-',cu.employee_name),'') as created_user,
+            	IFNULL(concat(mu.employee_code,'-',mu.employee_name),'') as modified_use
+            FROM  
+            	ems_v1.master_converter_detail mcd
+                inner join master_campus c on c.campus_id = mcd.campus_id
+                inner join master_company mc on mc.company_id = mcd.company_id
+                inner join master_business_unit mb on mb.bu_id = mcd.bu_id
+                inner join master_plant mp on mp.plant_id = mcd.plant_id
+                inner join master_converter_model mcm on mcm.converter_model_id = mcd.converter_model_id
+                inner join master_converter_make mme on mme.converter_make_id = mcm.converter_make_id
+            	left join ems_v1.master_employee cu on cu.employee_id=mcd.created_by
+            	left join ems_v1.master_employee mu on mu.employee_id=mcd.modified_by
+            WHERE 
+            	mcd.status !='delete' and  mcm.status != 'delete'
+            	and c.campus_id = '3'  
+            
+14/06/2024 18:37:29 current_power api query  
+            SELECT 
+            	mcd.*,
+                mc.company_name,
+                mc.company_code,
+                c.campus_name,
+                c.campus_code,
+                mcm.converter_model_name,
+                mcm.converter_make_id,
+                mme.converter_make_name,
+                mb.bu_code,
+                mb.bu_name,
+                mp.plant_code,
+                mp.plant_name,
+            	IFNULL(concat(cu.employee_code,'-',cu.employee_name),'') as created_user,
+            	IFNULL(concat(mu.employee_code,'-',mu.employee_name),'') as modified_use
+            FROM  
+            	ems_v1.master_converter_detail mcd
+                inner join master_campus c on c.campus_id = mcd.campus_id
+                inner join master_company mc on mc.company_id = mcd.company_id
+                inner join master_business_unit mb on mb.bu_id = mcd.bu_id
+                inner join master_plant mp on mp.plant_id = mcd.plant_id
+                inner join master_converter_model mcm on mcm.converter_model_id = mcd.converter_model_id
+                inner join master_converter_make mme on mme.converter_make_id = mcm.converter_make_id
+            	left join ems_v1.master_employee cu on cu.employee_id=mcd.created_by
+            	left join ems_v1.master_employee mu on mu.employee_id=mcd.modified_by
+            WHERE 
+            	mcd.status !='delete' and  mcm.status != 'delete'
+            	and c.campus_id = '3'  
+            
+14/06/2024 18:46:29 current_power api query  
+            SELECT 
+            	mcd.*,
+                mc.company_name,
+                mc.company_code,
+                c.campus_name,
+                c.campus_code,
+                mcm.converter_model_name,
+                mcm.converter_make_id,
+                mme.converter_make_name,
+                mb.bu_code,
+                mb.bu_name,
+                mp.plant_code,
+                mp.plant_name,
+            	IFNULL(concat(cu.employee_code,'-',cu.employee_name),'') as created_user,
+            	IFNULL(concat(mu.employee_code,'-',mu.employee_name),'') as modified_use
+            FROM  
+            	ems_v1.master_converter_detail mcd
+                inner join master_campus c on c.campus_id = mcd.campus_id
+                inner join master_company mc on mc.company_id = mcd.company_id
+                inner join master_business_unit mb on mb.bu_id = mcd.bu_id
+                inner join master_plant mp on mp.plant_id = mcd.plant_id
+                inner join master_converter_model mcm on mcm.converter_model_id = mcd.converter_model_id
+                inner join master_converter_make mme on mme.converter_make_id = mcm.converter_make_id
+            	left join ems_v1.master_employee cu on cu.employee_id=mcd.created_by
+            	left join ems_v1.master_employee mu on mu.employee_id=mcd.modified_by
+            WHERE 
+            	mcd.status !='delete' and  mcm.status != 'delete'
+            	and c.campus_id = '3'  
+            
+14/06/2024 18:58:49 current_power api query  
+            SELECT 
+            	mcd.*,
+                mc.company_name,
+                mc.company_code,
+                c.campus_name,
+                c.campus_code,
+                mcm.converter_model_name,
+                mcm.converter_make_id,
+                mme.converter_make_name,
+                mb.bu_code,
+                mb.bu_name,
+                mp.plant_code,
+                mp.plant_name,
+            	IFNULL(concat(cu.employee_code,'-',cu.employee_name),'') as created_user,
+            	IFNULL(concat(mu.employee_code,'-',mu.employee_name),'') as modified_use
+            FROM  
+            	ems_v1.master_converter_detail mcd
+                inner join master_campus c on c.campus_id = mcd.campus_id
+                inner join master_company mc on mc.company_id = mcd.company_id
+                inner join master_business_unit mb on mb.bu_id = mcd.bu_id
+                inner join master_plant mp on mp.plant_id = mcd.plant_id
+                inner join master_converter_model mcm on mcm.converter_model_id = mcd.converter_model_id
+                inner join master_converter_make mme on mme.converter_make_id = mcm.converter_make_id
+            	left join ems_v1.master_employee cu on cu.employee_id=mcd.created_by
+            	left join ems_v1.master_employee mu on mu.employee_id=mcd.modified_by
+            WHERE 
+            	mcd.status !='delete' and  mcm.status != 'delete'
+            	and c.campus_id = '3'  
+            

@@ -1,0 +1,36 @@
+18/07/2024 12:45:01 Shift Check
+18/07/2024 12:45:47 if 1 != 1 or 2024-06-25 00:00:00 != 2024-07-18 00:00:00
+18/07/2024 12:45:48 Shift end flag = 1 || active_date = 2024-07-18 , active_shift = 1
+18/07/2024 12:45:48 Shift Changed -->> Date :2024-07-18 , shift : 1 .
+18/07/2024 12:45:48 Shift End Called !
+18/07/2024 12:45:48 Fetched Records From masterShifts 
+18/07/2024 12:45:48 Created power_062024 table 
+18/07/2024 12:45:48 Created power_analysis_062024 table
+18/07/2024 12:45:48 Created alarm_062024 table 
+18/07/2024 12:45:48 Created polling_data_062024 table 
+18/07/2024 12:45:48 Error In While Loop -->> Error: (1054, "Unknown column 'start_kvah' in 'field list'") , Error_type: <class 'pymysql.err.OperationalError'> , File_name: shift_check.py , Error_line: 631 .
+18/07/2024 12:46:13 Shift Check
+18/07/2024 12:49:37 if 1 != 1 or 2024-06-25 00:00:00 != 2024-07-18 00:00:00
+18/07/2024 12:59:10 Shift end flag = 1 || active_date = 2024-07-18 , active_shift = 1
+18/07/2024 12:59:10 Shift Changed -->> Date :2024-07-18 , shift : 1 .
+18/07/2024 12:59:10 Shift End Called !
+18/07/2024 12:59:10 Fetched Records From masterShifts 
+18/07/2024 12:59:10 Created power_062024 table 
+18/07/2024 12:59:10 Created power_analysis_062024 table
+18/07/2024 12:59:10 Created alarm_062024 table 
+18/07/2024 12:59:10 Created polling_data_062024 table 
+18/07/2024 12:59:10 Error In While Loop -->> Error: (1054, "Unknown column 'start_kvah' in 'field list'") , Error_type: <class 'pymysql.err.OperationalError'> , File_name: shift_check.py , Error_line: 631 .
+18/07/2024 12:59:59 Shift Check
+18/07/2024 13:06:32 if 1 != 1 or 2024-07-18 00:00:00 != 2024-07-18 00:00:00
+18/07/2024 13:07:48 Shift end Flag not raised !
+18/07/2024 14:17:56 Shift Check
+18/07/2024 14:19:01 if 1 != 2 or 2024-07-18 00:00:00 != 2024-07-18 00:00:00
+18/07/2024 14:19:07 Shift end flag = 1 || active_date = 2024-07-18 , active_shift = 2
+18/07/2024 14:19:17 Shift Changed -->> Date :2024-07-18 , shift : 2 .
+18/07/2024 14:19:25 Shift End Called !
+18/07/2024 14:23:45 Fetched Records From masterShifts 
+18/07/2024 14:23:49 Created power_072024 table 
+18/07/2024 14:23:52 Created power_analysis_072024 table
+18/07/2024 14:24:03 Created alarm_072024 table 
+18/07/2024 14:24:03 Created polling_data_072024 table 
+18/07/2024 14:24:03 Error In While Loop -->> Error: (1054, "Unknown column 'start_kvah' in 'field list'") , Error_type: <class 'pymysql.err.OperationalError'> , File_name: shift_check.py , Error_line: 631 .
